@@ -13,8 +13,8 @@ class Square:
     """
 
     def __init__(self, size):
-    """The __init__ method for Square class
-    Args:
-        size: (:obj: 'int'): A private instance size
-    """
-    self.__size =
+        """The __init__ method for Square class
+        Args:
+            size: (:obj: 'int'): A private instance size
+        """
+        self.__size = size
